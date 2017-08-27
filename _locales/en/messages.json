@@ -1,0 +1,19 @@
+{
+  "valucheck_name": {
+    "message": "Valu Checker"
+  },
+  "valucheck_description": {
+    "message": "Displays the number of watcher in Valu. You can also click the button to open valu."
+  },
+  "valucheck_node_error": {
+    "message": "Error: feed retrieved, but no <fullcount> node found"
+  },
+  "gmailcheck_exception": {
+    "message": "exception: $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  }
+}

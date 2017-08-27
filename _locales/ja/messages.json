@@ -1,0 +1,19 @@
+{
+  "valucheck_name": {
+    "message": "Valu Checker"
+  },
+  "valucheck_description": {
+    "message": "Valu のウォッチャー数を表示します。このボタンをクリックしてValuを開くこともできます。"
+  },
+  "valucheck_node_error": {
+    "message": "エラー: ノードがありません"
+  },
+  "valucheck_exception": {
+    "message": "例外: $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  }
+}
